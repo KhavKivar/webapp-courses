@@ -18,7 +18,7 @@ import {
   faqs,
   methodSteps,
   siteContent,
-} from "@/content/landing-content";
+} from "@/config/static-content";
 
 const profilePhoto =
   "https://pixel-p1.s3.sa-east-1.amazonaws.com/doctor/avatar/7b3083e4/7b3083e4-e03c-4559-8d7f-e36d6a781454_large.jpg";
